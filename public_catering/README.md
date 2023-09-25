@@ -1,5 +1,7 @@
 # Рынок заведений общественного питания Москвы
 
+**Ссылка для открытия проекта, чтобы было видно интерактивные графики и карты:** [https://github.com/Slava-vlad-alex/data_analysis_projects/blob/9f28a7509e7aad908b7fdef8459f7e43aefbdb26/public_catering/public_catering_project.ipynb](https://nbviewer.org/github/Slava-vlad-alex/data_analysis_projects/blob/9f28a7509e7aad908b7fdef8459f7e43aefbdb26/public_catering/public_catering_project.ipynb)
+
 
 ## Данные
 
