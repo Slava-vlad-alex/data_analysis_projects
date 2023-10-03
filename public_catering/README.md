@@ -23,4 +23,4 @@
 
 ## Используемые библиотеки
 
-*pandas, numpy, matplotlyb, plotly (express, graph_objects), seaborn*
+*pandas, numpy, matplotlib, plotly (express, graph_objects), seaborn*
